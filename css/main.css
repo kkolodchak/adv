@@ -13,3 +13,12 @@ h1{
     text-align: center;
     font-size: 10px;
 }
+
+h2{
+    color: violet;
+}
+
+h4{
+    color: slateblue;
+    text-align: right;
+}
